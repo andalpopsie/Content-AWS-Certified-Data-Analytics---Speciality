@@ -11,7 +11,7 @@
   "dependencies": {
     "aws-sdk": "^2.824.0",
     "cfn-response": "^1.0.1",
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "lambda-local": "^1.7.4"
   }
 }
